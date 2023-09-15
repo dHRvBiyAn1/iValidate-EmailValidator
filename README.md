@@ -4,7 +4,6 @@ iValidate is a lightweight web-based tool that instantly validates email address
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -15,9 +14,6 @@ iValidate is a lightweight web-based tool that instantly validates email address
 - Immediate feedback on the email address's format.
 - Alerts for common mistakes, such as missing "@" or ".".
 - User-friendly interface with clear validation messages.
-
-## Demo
-Check out the live demo of iValidate: [iValidate Demo](https://example.com/ivalidate-demo)
 
 ## Getting Started
 
